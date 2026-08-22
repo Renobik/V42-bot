@@ -1,6 +1,0 @@
-services:
-  - type: worker
-    name: choch-top100
-    env: docker
-    plan: free
-    dockerfilePath: ./Dockerfile
