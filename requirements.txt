@@ -1,5 +1,0 @@
-ccxt
-pandas
-matplotlib
-requests
-Flask
